@@ -1,6 +1,6 @@
 # startup_namer
 
-Tutorial Flutter app created from Codelab.
+Tutorial Flutter app created from Codelabs: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0
 
 ## Application Info
 
